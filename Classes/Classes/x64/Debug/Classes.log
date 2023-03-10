@@ -1,0 +1,19 @@
+﻿  Source.cpp
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Book.h(14,12): error C2011: 'Book': 'class' type redefinition
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Book.h(14,7): message : see declaration of 'Book'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(29,7): error C2079: 'book1' uses undefined class 'Book'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(29,12): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(29,12): message : The initializer contains too many elements
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(30,7): error C2079: 'book2' uses undefined class 'Book'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(30,12): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(30,12): message : The initializer contains too many elements
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(31,7): error C2079: 'book3' uses undefined class 'Book'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(31,12): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(31,12): message : The initializer contains too many elements
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(32,7): error C2079: 'book4' uses undefined class 'Book'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(32,12): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(32,12): message : The initializer contains too many elements
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(54,7): error C2079: 'newBook1' uses undefined class 'Book'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(55,7): error C2079: 'newBook2' uses undefined class 'Book'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(56,7): error C2079: 'newBook3' uses undefined class 'Book'
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Source.cpp(57,7): error C2079: 'newBook4' uses undefined class 'Book'

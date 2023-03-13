@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\SerializationOfDerivedClass\x64\Debug\Inheritance.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,7 +1,0 @@
-﻿  Process2.cpp
-E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Book.h(14,12): error C2011: 'Book': 'class' type redefinition
-E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Classes\Classes\Book.h(14,7): message : see declaration of 'Book'
-E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Deserialize\Process2.cpp(22,7): error C2079: 'newBook1' uses undefined class 'Book'
-E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Deserialize\Process2.cpp(23,7): error C2079: 'newBook2' uses undefined class 'Book'
-E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Deserialize\Process2.cpp(24,7): error C2079: 'newBook3' uses undefined class 'Book'
-E:\OneDrive - Infotech (Private) Limited\GitFolders\SerializationOf_Inheritance\Deserialize\Process2.cpp(25,7): error C2079: 'newBook4' uses undefined class 'Book'
